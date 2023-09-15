@@ -39,5 +39,5 @@ Feel free to explore and provide feedback. Happy watching!
 </div>
 
 <div align="center">
-  <img alt="Ryan's GitHub Streak" src="https://streak-stats.demolab.com/?user=rbk6&theme=github-dark&hide_border=true" />
+  <img alt="Ryan's GitHub Streak" src="https://streak-stats.demolab.com/?user=rbk6&theme=github-dark&mode=weekly&hide_border=true&card_width=1000&background=transparent&currStreakNum=8a999a&sideNums=8a999a&currStreakLabel=8a999a&fire=8a999a&sideLabels=8a999a" />
 </div>
