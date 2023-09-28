@@ -10,7 +10,7 @@ I'm a recent college graduate passionate about web development, excited to embar
 <p align="center">
   <h2 style="display: inline-block; vertical-align: middle;">
     About Me
-    <img style="vertical-align: middle; transform: scaleX(-1); -webkit-transform: scaleX(-1); -ms-transform: scaleX(-1);" src="https://i.giphy.com/media/SUDr9512mOzZrAbMcv/giphy.gif" width="40" alt="cursor pointing gif">
+    <img style="vertical-align: middle; transform: scaleX(-1); -webkit-transform: scaleX(-1); -ms-transform: scaleX(-1); -moz-transform: scaleX(-1); -o-transform: scaleX(-1);" src="https://i.giphy.com/media/SUDr9512mOzZrAbMcv/giphy.gif" width="40" alt="cursor pointing gif">
   </h2>
 </p>
 
