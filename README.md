@@ -7,23 +7,13 @@
 
 I'm a recent college graduate passionate about web development, excited to embark on my journey in the tech industry.
 
-<p align="center">
-  <h2 style="display: inline-block; vertical-align: middle;">
-    About Me
-    <img style="vertical-align: middle; transform: scaleX(-1); -webkit-transform: scaleX(-1); -ms-transform: scaleX(-1); -moz-transform: scaleX(-1); -o-transform: scaleX(-1);" src="https://i.giphy.com/media/SUDr9512mOzZrAbMcv/giphy.gif" width="40" alt="cursor pointing gif">
-  </h2>
-</p>
+## About Me
 
 - 🎓 Recent graduate in Computer Science from the University of Nevada, Las Vegas
 - 💻 Aspiring web developer with a focus on full-stack development
 - 🌟 Constantly learning and exploring new technologies
 
-<p align="center">
-  <h2 style="display: inline-block; vertical-align: middle;">
-    Current Project: SlateList
-    <img style="vertical-align: text-bottom" src="https://i.giphy.com/media/XSlH7fBwkIra3skKLj/giphy.gif" width="25" alt="loading gif">
-  </h2>
-</p>
+## Current Project: SlateList
 
 SlateList is my ongoing web app project, designed to tackle a common problem: keeping track of your movie and TV show preferences.
 
@@ -44,12 +34,7 @@ Feel free to explore and provide feedback. Happy watching!
 
 - 📧 Email: [rbk6dev@gmail.com](mailto:rbk6dev@gmail.com)
 
-<p align="center">
-  <h2 style="display: inline-block; vertical-align: middle;">
-    Technologies I'm Currently Exploring
-    <img style="vertical-align: text-bottom" src="https://i.giphy.com/media/B66ETqdX7dP4eAq8Sl/giphy.gif" width="40" alt="book flipping through pages gif">
-  </h2>
-</p>
+## Technologies I'm Currently Exploring
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
